@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Mathematica
 
 [Beam dynamics](/sample_page)
 <img src="images/beam dynamics.png?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Matlab
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
